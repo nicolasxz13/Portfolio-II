@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>A Web Page</title>
+    <link rel="stylesheet" type="text/css" href="~/css/stylesprojects.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/">Home</a>
+            <a href="/projects">Projects</a>
+            <a href="/contact">Contact</a>
+        </nav>
+        <header>
+            <h1>My Projects</h1>
+        </header>
+        <main>
+            <div class="projectContainer">
+                @{
+                    int count = 1;
+                    foreach (var project in ViewBag.projects)
+                    {
+                        <div class="block">
+                            <img src="~/img/Dog.svg" alt="Dog image">
+                            <div class="blockName">
+                                <p>Project @count</p>
+                                <p>@project</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae laboriosam illo itaque, sunt
+                                    quam tenetur molestiae adipisci ipsum sed quis culpa aspernatur tempora fugit distinctio
+                                    ipsa, debitis cupiditate velit fugiat?</p>
+                            </div>
+                        </div>
+                        count++;
+                    }
+                }
+            </div>
+        </main>
+    </div>
+</body>
+</html>

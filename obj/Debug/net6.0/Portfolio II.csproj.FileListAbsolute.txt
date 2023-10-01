@@ -1,0 +1,28 @@
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\bin\Debug\net6.0\appsettings.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\bin\Debug\net6.0\Portfolio II.exe
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\bin\Debug\net6.0\Portfolio II.deps.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\bin\Debug\net6.0\Portfolio II.runtimeconfig.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\bin\Debug\net6.0\Portfolio II.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\bin\Debug\net6.0\Portfolio II.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.RazorAssemblyInfo.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.RazorAssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\staticwebassets\msbuild.Portfolio II.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\staticwebassets\msbuild.build.Portfolio II.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio II.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Portfolio II.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\scopedcss\bundle\Portfolio II.styles.css
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\refint\Portfolio II.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\Portfolio II.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\obj\Debug\net6.0\ref\Portfolio II.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Portfolio II\bin\Debug\net6.0\Portfolio II.staticwebassets.runtime.json

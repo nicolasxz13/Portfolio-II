@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Portfolio II\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Portfolio II\\wwwroot\\css\\stylesprojects.css",
+      "PackagePath": "staticwebassets\\css\\stylesprojects.css"
+    },
+    {
+      "Id": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\Portfolio II\\wwwroot\\img\\Dog.svg",
+      "PackagePath": "staticwebassets\\img\\Dog.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Portfolio II.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Portfolio II.props",
+      "PackagePath": "build\\Portfolio II.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio II.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio II.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Portfolio II.props",
+      "PackagePath": "buildTransitive\\Portfolio II.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
